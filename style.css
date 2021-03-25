@@ -1,3 +1,4 @@
+
 .titulo{
     border: 1px sandybrown solid;
     text-align: center;
@@ -6,4 +7,9 @@
     border: 2px blue solid;
     text-align: center;
     color: blue;
+}
+.footer{
+    border: 1px solid rebeccapurple;
+    color: rgb(28, 90, 90);
+    text-align: center;
 }
