@@ -2,3 +2,8 @@
     border: 1px sandybrown solid;
     text-align: center;
 }
+.header{
+    border: 2px blue solid;
+    text-align: center;
+    color: blue;
+}
